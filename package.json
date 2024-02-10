@@ -2,7 +2,7 @@
   "name": "squirrel",
   "version": "1.0.0",
   "description": "## Your Task",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/adamem02/Squirrel#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "cfonts": "^3.2.0",
+    "inquirer": "^9.2.12",
     "mysql2": "^3.7.1"
   }
 }
